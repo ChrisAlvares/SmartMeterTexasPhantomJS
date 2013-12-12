@@ -5,7 +5,7 @@ www.smartmetertexas.com crawler script to get your data via phantomjs
 
 to run
 
-phantomjs smartmeter.js [daily|monthly] [username in CAPS] [password] [startdate in mm/dd/YYYY] [enddate in mm/dd/YYYY]
+``phantomjs smartmeter.js [daily|monthly] [username in CAPS] [password] [startdate in mm/dd/YYYY] [enddate in mm/dd/YYYY]``
 
 ``phantomjs smartmeter.js "monthly" "USERNAME" "password" "12/09/2013" "12/10/2013"``
 
